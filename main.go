@@ -1,13 +1,13 @@
 package main
 
-import ("fmt"
-       // "github.com/oscuro1111/golang-libs/semaphore"
-      // "github.com/google/go-cmp/cmp"
-         "github.com/cosmic-blunder/monklang/utils"
+import (
+	"fmt"
+	// "github.com/oscuro1111/golang-libs/semaphore"
+	// "github.com/google/go-cmp/cmp"
 )
-func main(){
 
-     fmt.Println("Hello monk lang");
+func main() {
 
-     fmt.Println(utils.Util());
+	fmt.Println("Hello monk lang")
+
 }
